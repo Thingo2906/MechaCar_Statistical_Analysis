@@ -20,4 +20,10 @@
 - The maintenance cost of ownership for the vehicle.
 #### Null Hypothesis
 After identifying which aspects are critical to the genre of the MechaCar:
-+ Null Hypothesis (Ho): MechaCar is properly priced based on its performance in key genre parameters.
+- Null Hypothesis (Ho): MechaCar is properly priced based on its performance in key genre parameters.
+- Alternative Hypothesis (Ha): MechaCar's pricing is incorrectly set based on its genre's key performance indicators.
+#### Statistical Tests
+- To establish which components have the strongest correlation/predictability with the list selling price (dependent variable), a multiple linear regression would be used; which combination has the largest influence on price, a multiple linear regression would be used.
+#### Data That Needs Collecting
+-The cost of each repair or maintenance bill.
+
