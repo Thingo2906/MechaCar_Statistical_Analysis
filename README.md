@@ -19,5 +19,5 @@
 #### New Metric Test
 - The maintenance cost of ownership for the vehicle.
 #### Null Hypothesis
-- After identifying which aspects are critical to the genre of the MechaCar:
+After identifying which aspects are critical to the genre of the MechaCar:
 + Null Hypothesis (Ho): MechaCar is properly priced based on its performance in key genre parameters.
