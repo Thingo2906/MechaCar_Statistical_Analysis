@@ -9,4 +9,15 @@
 ### Summary Statistics on Suspension Coils:
 ![Total_Suspension_Coil](https://user-images.githubusercontent.com/93515126/160768143-63e525e9-6d77-4b6b-88af-40216bb38b33.png)
 ![Suspension_Coils_by_Lots](https://user-images.githubusercontent.com/93515126/160768173-697ac050-d953-459a-b9bc-04a20d34c7d6.png)
-
+- The overall variation for the Total Summary data is less than 100 psi, but the variance for Lot3 (170) indicates a possible outlier for the data.
+### T-Tests on Suspension Coils:
+![Deliverable3](https://user-images.githubusercontent.com/93515126/160768666-293bebb8-dcdf-455e-b4a3-c36e10ef5f69.png)
+- The t-test reveals that the p-values for Lots 1 and 2 are insufficient to reject the null hypothesis, however for Lot 3, a p-value of 0.04 might be sufficient to reject the null hypothesis.
+### Study Design: MechaCar vs Market Competition:
+- The next investigation should focus on the cars' dependability.
+- New hypothesis: The MechaCar's maintenance costs are a factor in its overall pricing.
+#### New Metric Test
+- The maintenance cost of ownership for the vehicle.
+#### Null Hypothesis
+- After identifying which aspects are critical to the genre of the MechaCar:
++ Null Hypothesis (Ho): MechaCar is properly priced based on its performance in key genre parameters.
